@@ -1,0 +1,1 @@
+# KiCAD symbols used in the schematic for the RCR-1
